@@ -28,6 +28,7 @@ Example content:
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/InvaCost/invacost"><code>invacost</code></a>: The <code>invacost</code> R Package: Global Costs of Biological Invasions
+- <a href="https://github.com/InvaCost/InvasiveSppCostsAustralia">invasive species costs in Australia</a>: R Code and data
 
 ### Learning resources
 <img src="profile/learningLogo.png" alt="" width="75" align="right" />
