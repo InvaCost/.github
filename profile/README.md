@@ -6,7 +6,7 @@ Example content:
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/CABAH/holoflow">holoflow</a>: Bioinformatics pipeline for hologenomics data generation and analysis
+- <a href="https://github.com/InvaCost/invacost">invacost</a>: The invacost R Package: Global Costs of Biological Invasions
 
 ### Learning resources
 <img src="profile/learningLogo.png" alt="" width="75" align="right" />
