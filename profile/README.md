@@ -1,9 +1,10 @@
 ## <a href="http://invacost.fr">InvaCost</a>
-<img src="profile/bha.jpg" alt="" width="300" align="left" />
+<img src="profile/bha.jpg" alt="" width="200" align="left" />
 
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>
 Example content:
 
+<br>
 <br>
 <br>
 <br>
