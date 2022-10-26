@@ -3,6 +3,10 @@
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>
 Example content:
 
+### References
+<img src="profile/refsLogo.png" alt="" width="75" align="right" />
+- <a href="https://github.com/InvaCost/InvaCostRefs/">references and PDFs of papers based on the InvaCost project</a>
+
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
