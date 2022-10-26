@@ -46,7 +46,7 @@ Example content:
 <br>
 <br>
 <a href="https://www.universite-paris-saclay.fr/"><img src="profile/logo_UPS.png" alt="" width="150" align="left" /></a>
-<img src="profile/logo_CNRS.png" alt="" width="70" align="left" />
+<a href="https://www.cnrs.fr/"><img src="profile/logo_CNRS.png" alt="" width="70" align="left" /></a>
 <img src="profile/logo_AXA.png" alt="" width="60" align="left" />
-<img src="profile/logo_ANR.png" alt="" width="90" align="left" />
+<a href="https://anr.fr/fr/"><img src="profile/logo_ANR.png" alt="" width="90" align="left" /></a>
 
