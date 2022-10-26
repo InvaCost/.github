@@ -42,7 +42,7 @@ Example content:
 ### Software/utilities
 <img src="profile/softwareLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open-source, cross-platform (lin/win/mac) geographical information system (GIS)
 
 <br>
 <br>
