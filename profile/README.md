@@ -1,5 +1,6 @@
 ## <a href="http://invacost.fr">InvaCost</a>: global estimates of the economic costs of invasive species
 <img src="profile/bha.jpg" alt="" width="200" align="left" />
+<img src="profile/bigheadedantcut.png" alt="" width="100" align="right" />
 
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/franckcourchamp">franckcourchamp</a>
 
