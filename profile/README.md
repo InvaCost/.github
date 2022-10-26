@@ -1,4 +1,5 @@
 ## <a href="http://invacost.fr">InvaCost</a>
+<img src="profile/bigheadedantcut.png" alt="" width="150" align="right" />
 
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a>
 Example content:
