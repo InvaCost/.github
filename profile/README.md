@@ -5,10 +5,12 @@ Example content:
 
 ### References
 <img src="profile/refsLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/InvaCost/InvaCostRefs/">InvaCostRefs</a>: References and PDFs of papers based on the InvaCost project
 
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
+
 - <a href="https://github.com/InvaCost/invacost">invacost</a>: The invacost R Package: Global Costs of Biological Invasions
 
 ### Learning resources
