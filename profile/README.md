@@ -11,7 +11,7 @@ Example content:
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/InvaCost/invacost">invacost</a>: The invacost R Package: Global Costs of Biological Invasions
+- <a href="https://github.com/InvaCost/invacost"><code>invacost</code></a>: The <code>invacost</code> R Package: Global Costs of Biological Invasions
 
 ### Learning resources
 <img src="profile/learningLogo.png" alt="" width="75" align="right" />
