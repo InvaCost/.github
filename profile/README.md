@@ -10,6 +10,7 @@ Example content:
 
 ### References
 <img src="profile/refsLogo.png" alt="" width="75" align="right" />
+- <a href="https://github.com/InvaCost/invacost_FAQ">InvaCost FAQ</a>: frequently asked questions about the InvaCost database
 
 - <a href="https://github.com/InvaCost/InvaCostRefs/">InvaCostRefs</a>: References and PDFs of papers based on the InvaCost project
 
