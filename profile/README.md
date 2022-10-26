@@ -37,7 +37,7 @@ Example content:
 
 - <a href="https://github.com/CABAH/assignDOI">assignDOI</a>: Assign a digital object identifier (DOI) to your Github repository
 - <a href="https://github.com/CABAH/FAIR_Workshop_github">FAIR_Workshop_github</a>: A repository for practising the basic use of Github
-- <a href="https://github.com/CABAH/learningRresources">learningRresources</a>: Various online & other resources for learning and improving skills in the R programming language
+- <a href="https://github.com/InvaCost/learningRresources-1">learningRresources</a>: Various online & other resources for learning and improving skills in the R programming language
 - <a href="https://github.com/CABAH/learningPythonResources">learningPythonResources</a>: Various online & other resources for learning and improving skills in the Python programming language
 
 ### Software/utilities
