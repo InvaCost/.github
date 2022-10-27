@@ -7,18 +7,14 @@ This is the shared Github code and data repository for members of InvaCost. Cura
 <br>
 The objective of InvaCost is to estimate the economic costs of biological invasions  🐜 🌿 🐀 🐍 🐇 🪲 🐗 🐛 🐃 🐈‍⬛ 🌺 🐫 🌵 🌱 🌼 🐚
 
+<br>
+
 Biological invasions are some of the major global causes of biodiversity loss. They also induce massive financial losses within our societies, either directly (e.g., through consumption of crops or degradation of infrastructure), indirectly (e.g., by impacting various ecosystem services) or through management expenditures. Despite the magnitude of these threats and advances in our understanding of their ecological impacts, the knowledge on the economic impact of these invasions remains limited. Within this context, the monetary quantification of impacts of invasive alien species is a fundamental step to (<em>i</em>) raise public awareness and compel policymakers to focus more attention on these species, (<em>ii</em>) improve assessment of proactive surveillance and control actions as well as priortising management at relevant scales, and (<em>iii</em>) support efficient and cost-effective decision-making.
 
 The <em>InvaCost</em> database is the most up-to-date, comprehensive, and standardised data compilation and description of economic cost estimates associated with alien invasive species worldwide. From tens of thousands of sources, including scientific peer-reviewed articles and grey literature (in 14 languages), the database now contains explicit estimations of > 13,000 costs associated with invasive species, including > 60 descriptors.
 
 The major contribution of InvaCost – besides identifying, collating and describing economic costs – has been the methodology to standardise intrinsically complex and heterogeneous costs so that they can be compiled and compared, allowing analyses that were hitherto impossible. From this database, we have started basic, descriptive analyses, allowing us to consolidate a solid, operational network of > 100 experts from 42 countries, representing several disciplinary fields: ecologists, economists, statisticians, data analysts, and experts of different ecosystems and taxonomic groups.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 Example content:
 
