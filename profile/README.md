@@ -5,7 +5,7 @@
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/franckcourchamp">franckcourchamp</a>.
 
 <br>
-<strong>The objective of InvaCost is to estimate the economic costs of biological invasions</strong> <br>
+<strong>The objective of InvaCost is to estimate the economic costs of biological invasions</strong>
 <br>
 <br> 🐜 🌿 🐀 🐍 🐇 🪲 🐗 🐛 🐃 🐈‍⬛ 🌺 🐫 🌵 🌱 🌼 🐚 <br>
 <br>
