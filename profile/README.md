@@ -37,6 +37,8 @@ Example content:
 
 - <a href="https://theconversation.com/attack-of-the-alien-invaders-pest-plants-and-animals-leave-a-frightening-1-7-trillion-bill-158628">Attack of the alien invaders: pest plants and animals leave a frightening $1.7 trillion bill</a>
 - <a href="https://theconversation.com/pest-plants-and-animals-cost-australia-around-25-billion-a-year-and-it-will-get-worse-164969">Pest plants and animals cost Australia around $25 billion a year – and it will get worse</a>
+- <a href="https://www.geo.fr/environnement/en-50-ans-les-especes-envahissantes-auraient-coute-plus-de-1000-milliards-deuros-a-lhumanite-204258">En 50 ans, les espèces envahissantes auraient coûté plus de 1000 milliards d'euros à l'humanité</a>
+- <a href="https://www.theguardian.com/environment/2021/mar/31/damage-from-alien-species-invasions-trebling-every-decade">Damage from invasive species 'trebling every decade'</a>
 
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
