@@ -32,6 +32,12 @@ Example content:
 - <a href="https://github.com/InvaCost/InvaCostRefs/">InvaCostRefs</a>: References and PDFs of papers based on the InvaCost project
 - <a href="https://github.com/InvaCost/invacost_FAQ">InvaCost FAQ</a>: frequently asked questions about the <em>InvaCost</em> database
 
+### Popular articles
+<img src="profile/magIcon.png" alt="" width="75" align="right" />
+
+- <a href="https://theconversation.com/attack-of-the-alien-invaders-pest-plants-and-animals-leave-a-frightening-1-7-trillion-bill-158628">Attack of the alien invaders: pest plants and animals leave a frightening $1.7 trillion bill</a>
+- <a href="https://theconversation.com/pest-plants-and-animals-cost-australia-around-25-billion-a-year-and-it-will-get-worse-164969">Pest plants and animals cost Australia around $25 billion a year – and it will get worse</a>
+
 ### Scripts
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
