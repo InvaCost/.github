@@ -24,7 +24,7 @@ Example content:
 <img src="profile/databaseLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://figshare.com/articles/dataset/InvaCost_References_and_description_of_economic_cost_estimates_associated_with_biological_invasions_worldwide_/12668570/5"><em>InvaCost</em></a>: the living database itself
-- <a href="https://borisleroy.com/invacost/invacost_livingfigure.html">InvaCost living figure</a>: Updated global figures of the taxonomic and geographic costs of biological invasions, based on the latest version of the InvaCost database (figure repository <a href="https://github.com/InvaCost/invacost_livingfigure">here</a>) 
+- <a href="https://borisleroy.com/invacost/invacost_livingfigure.html">InvaCost living figure</a>: Updated global figures of the taxonomic and geographic costs of biological invasions, based on the latest version of the <em>InvaCost</em> database (figure repository <a href="https://github.com/InvaCost/invacost_livingfigure">here</a>) 
 
 ### References
 <img src="profile/refsLogo.png" alt="" width="75" align="right" />
