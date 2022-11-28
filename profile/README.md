@@ -8,9 +8,8 @@ If you are affiliated with InvaCost and have a Github account (click <a href="ht
 <br>
 <br>
 <br>
-<center><div style="text-align:center"><p style="text-align:center"><strong><em>The objective of InvaCost is to estimate the economic costs of biological invasions</em></strong></p></div></center>
+<center><strong><em>The objective of InvaCost is to estimate the economic costs of biological invasions</em></strong></center>
 <p style="text-align:center">🐜 🌿 🐀 🐍 🐇 🪲 🐗 🐛 🐃 🐈‍⬛ 🌺 🐫 🌵 🌱 🌼 🐚</p> <br>
-<br>
 <br>
 
 Biological invasions are some of the major global causes of biodiversity loss. They also induce <a href="https://theconversation.com/attack-of-the-alien-invaders-pest-plants-and-animals-leave-a-frightening-1-7-trillion-bill-158628">massive financial losses</a> within our societies, either directly (e.g., through consumption of crops or degradation of infrastructure), indirectly (e.g., by impacting various ecosystem services) or through management expenditures. Despite the magnitude of these threats and advances in our understanding of their ecological impacts, the knowledge on the economic impact of these invasions remains limited. Within this context, the monetary quantification of impacts of invasive alien species is a fundamental step to (<em>i</em>) raise public awareness and compel policymakers to focus more attention on these species, (<em>ii</em>) improve assessment of proactive surveillance and control actions as well as priortising management at relevant scales, and (<em>iii</em>) support efficient and cost-effective decision-making.
