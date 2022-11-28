@@ -8,8 +8,8 @@ If you are affiliated with InvaCost and have a Github account (click <a href="ht
 <br>
 <br>
 <br>
-<p style="text-align:center"><strong><em>The objective of InvaCost is to estimate the economic costs of biological invasions</em></strong></p>
-<p style="text-align:center">🐜 🌿 🐀 🐍 🐇 🪲 🐗 🐛 🐃 🐈‍⬛ 🌺 🐫 🌵 🌱 🌼 🐚</p> <br>
+<div style="text-align:center"><p style="text-align:center"><strong><em>The objective of InvaCost is to estimate the economic costs of biological invasions</em></strong></p>
+<p style="text-align:center">🐜 🌿 🐀 🐍 🐇 🪲 🐗 🐛 🐃 🐈‍⬛ 🌺 🐫 🌵 🌱 🌼 🐚</p></div> <br>
 <br>
 <br>
 
