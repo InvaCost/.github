@@ -4,7 +4,7 @@
 
 This is the shared Github code and data repository for members of InvaCost. Curated by @<a href="https://github.com/cjabradshaw">cjabradshaw</a> and @<a href="https://github.com/franckcourchamp">franckcourchamp</a>.
 <br>
-If you are affiliated with InvaCost and have a Github account, but are not yet a member of this Github organisation, please request membership <a href="mailto:corey.bradshaw@flinders.edu.au?subject=Please add me to the InvaCost Github page&body=Hello Corey,%20%0D%0A%20%0D%0APlease add me to the Github organisation page using my account name: @[your Github account handle].%20%0D%0A%20%0D%0AThank you,">here</a>.<br>
+If you are affiliated with InvaCost and have a Github account (click <a href="https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">here</a> to subscribe to Github if not), but are not yet a member of this Github organisation, please request membership <a href="mailto:corey.bradshaw@flinders.edu.au?subject=Please add me to the InvaCost Github page&body=Hello Corey,%20%0D%0A%20%0D%0APlease add me to the Github organisation page using my account name: @[your Github account handle].%20%0D%0A%20%0D%0AThank you,">here</a>.<br>
 <br>
 <strong><em>The objective of InvaCost is to estimate the economic costs of biological invasions</em></strong>
 <br>
