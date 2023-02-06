@@ -60,6 +60,7 @@ Example content:
 
 <br>
 <br>
+<img src="profile/InvaCostPubs.jpg" alt="" width="350" align="center" />
 <br>
 <a href="https://www.universite-paris-saclay.fr/"><img src="profile/logo_UPS.png" alt="" width="150" align="left" /></a>
 <a href="https://www.cnrs.fr/"><img src="profile/logo_CNRS.png" alt="" width="70" align="left" /></a>
