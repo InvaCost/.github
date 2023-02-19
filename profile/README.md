@@ -42,6 +42,7 @@ Example content:
 <img src="profile/scriptsLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/InvaCost/invacost"><code>invacost</code></a>: The <code>invacost</code> R Package: Global Costs of Biological Invasions
+- <a href="https://github.com/InvaCost/InvaCostVersionTrends">temporal trends in entries, species, and costs among InvaCost versions</a>: R code
 - <a href="https://github.com/InvaCost/InvasiveSppCostsAustralia">invasive species costs in Australia</a>: R Code and data
 - <a href="https://github.com/InvaCost/invacost-NZ">economic synthesis of biological invasions in New Zealand</a>: R code and data
 
